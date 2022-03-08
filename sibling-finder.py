@@ -12,6 +12,7 @@
 
 #Telegram  : Zafiyetsiz0
 #Instagram : Zafiyetsiz
+#Discord   : Zafiyetsiz#4172
 
 ##############################
 a= input(" Kendi  tc kimlik numaranizin ilk 9 hanesini giriniz: ")
